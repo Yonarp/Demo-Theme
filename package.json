@@ -1,0 +1,21 @@
+{
+    "name": "Demo-Theme",
+    "displayName": "Demo-Theme",
+    "description": "a custome theme developed for the first time ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Trial Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Trial Theme-color-theme.json"
+            }
+        ]
+    }
+}
